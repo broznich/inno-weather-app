@@ -1,0 +1,14 @@
+{
+    "version_name": "Innometrics weather app",
+    "version_description": "App will add weather data to profile attributes",
+    "pages": [{
+        "name": "App Settings",
+        "type": "bundled",
+        "content": "frontend/settings.html"
+    }],
+    "permissions": ["stream", "profile.update", "profile.read", "app.read.own"],
+    "runtime": {
+        "language": "node",
+        "version": "0.10"
+    }
+}

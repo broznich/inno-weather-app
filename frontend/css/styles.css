@@ -1,0 +1,11 @@
+body {
+    font-size: 14px;
+}
+
+.stream, .row {
+    margin: 0;
+}
+
+.quote {
+    padding-top: 55px;
+}

@@ -1,0 +1,8 @@
+{
+    "weatherApiKey":{
+        "title":"String Example",
+        "type":"string",
+        "minLength":0,
+        "maxLength":40
+    }
+}
