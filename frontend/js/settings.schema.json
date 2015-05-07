@@ -1,6 +1,6 @@
 {
     "weatherApiKey":{
-        "title":"String Example",
+        "title":"OpenWeather api key",
         "type":"string",
         "minLength":0,
         "maxLength":40

@@ -2,7 +2,7 @@
     var $ = window.$;
 
     // Step 1. Define default path to file with schema
-    var settingsSchemaSrc = "js/data/settings.schema.json"; // default path to json schema of sesstings' fields
+    var settingsSchemaSrc = "js/settings.schema.json"; // default path to json schema of sesstings' fields
 
     // Step 2. If custom path was defined - is it
     if (settingsSchemaSrc in window) {

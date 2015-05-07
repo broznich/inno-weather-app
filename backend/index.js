@@ -221,7 +221,7 @@ var startApp = function () {
     
     setInterval(function () {
         weatherApp.addGeoDataToProfiles();
-    },10000);
+    },300000);
 };
 
 db.serialize(function () {
